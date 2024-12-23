@@ -148,15 +148,6 @@ OVERVIEW OF THE PROJECT
 
 
 
-
-
-
-
-
-![Logo](https://github.com/user-attachments/assets/e740fe64-53b0-4b2c-b5fa-09b2b05ba326)
-
-
-
 ![M_1](https://github.com/user-attachments/assets/dc5603c4-9002-4974-8957-e538f55535e3)
 
 
